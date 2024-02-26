@@ -7,7 +7,7 @@
 🤝 Open to collaboration opportunities 🤖<br>
 🌱 Learning Full Stack Web & App Development.🌐<br>
 💡 Ask me about anything tech-related! 🧠<br>
-🎉 Fun fact **i am a stoic**⚡<br>
+🎉 Fun fact **I am an absurdist nihilist, maybe a part solipsist!**⚡<br>
 📫 How to reach me **manasa8910@gmail.com**<br>
 
 ## 🌐 Socials:
