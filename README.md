@@ -3,7 +3,7 @@
 [Portfolio](https://manasa-bhat.vercel.app/) 
 
 
-👋Hello World!! and Greetings, fellow developers! I'm Manasa Bhat, a versatile software engineer from India. Fluent in Java and JavaScript, Specializing in a diverse array of frameworks and libraries such as ReactJS, React Native, NodeJS, Express, and Spring Boot, I wield these tools to architect robust systems and craft seamless user experiences. My expertise extends to database management with MongoDB and MySQL, ensuring data integrity and efficiency. Backed by coursework in Data Structures, Algorithms, System Design, OOPs, Product Management, and UI/UX, I'm driven by a passion for creating scalable solutions that merge technical excellence with user-centric design. Let's collaborate and innovate together! 💻🚀
+👋Hello World!! and Greetings, fellow developers! I'm Manasa Bhat, a versatile software engineer from India.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Fluent in Java and JavaScript, Specializing in a diverse array of frameworks and libraries such as ReactJS, React Native, NodeJS, Express, and Spring Boot, I wield these tools to architect robust systems and craft seamless user experiences. My expertise extends to database management with MongoDB and MySQL, ensuring data integrity and efficiency. Backed by coursework in Data Structures, Algorithms, System Design, OOPs, Product Management, and UI/UX, I'm driven by a passion for creating scalable solutions that merge technical excellence with user-centric design. Let's collaborate and innovate together!
 
 🚀 Passionate about Web Development 💻<br>
 🤝 Open to collaboration opportunities 🤖<br>
@@ -22,17 +22,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=manasa8910&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manasa8910&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=manasa8910&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=manasa8910&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=manasa8910&icon=0&color=0)](https://visitcount.itsvg.in)
